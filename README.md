@@ -13,3 +13,5 @@ this is readme introduction
 ##Working dir
 
 ##Copyright
+
+##How to contribute
