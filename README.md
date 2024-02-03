@@ -16,3 +16,4 @@ this is readme introduction
 All rights reserved
 
 ##How to contribute
+After stash
