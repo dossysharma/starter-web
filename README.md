@@ -13,5 +13,6 @@ this is readme introduction
 ##Working dir
 
 ##Copyright
+All rights reserved
 
 ##How to contribute
